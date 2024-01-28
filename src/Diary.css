@@ -1,0 +1,22 @@
+.diary-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .entries-container {
+    margin-top: 20px;
+  }
+  
+  .diary-entry {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .diary-entry button {
+    margin-left: 10px;
+  }
+  
